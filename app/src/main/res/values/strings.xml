@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAppRestau</string>
+    <string name="login_background">loginBackground</string>
+    <string name="fab_google">fabGoogle</string>
+    <string name="fab_apple">fabApple</string>
+    <string name="fab_facebook">fabFacebook</string>
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_forget_password">Forget password</string>
+    <string name="str_first_name">First name</string>
+    <string name="str_last_name">Last name</string>
+    <string name="str_confirm_password">Confirm password</string>
+    <string name="str_register">Register</string>
+
+
+</resources>
